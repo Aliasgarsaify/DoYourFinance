@@ -1,0 +1,21 @@
+.charts{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: auto;
+
+}
+
+.component1{
+    text-align: center;
+    width: 60%;
+    box-shadow: var(--shadow);
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+.component2{
+    text-align: center;
+    width: 40%;
+    box-shadow: var(--shadow);
+    margin-right:1rem ;
+}

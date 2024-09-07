@@ -1,0 +1,24 @@
+.signup-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    max-width: 440px;
+    height: auto;
+    box-shadow: var(--shadow);
+    border-radius: 1rem;
+    padding: 1rem 1.5rem;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+
+.click-here{
+    text-align: center;
+    font-weight: 300;
+    font-size: 0.8rem;
+    cursor: pointer;
+}

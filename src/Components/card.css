@@ -1,0 +1,23 @@
+.my-card{
+    box-shadow: var(--shadow);
+    min-width: 350px;
+    margin: 1rem;
+    border-radius: 0.2rem;
+    flex: 1;
+}
+
+.my-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem auto;
+}
+
+.my-card p{
+    margin: 0;
+}
+
+.ant-card-head-title{
+    font-family: "Montserrat", sans-serif;
+}
